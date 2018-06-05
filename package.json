@@ -1,0 +1,18 @@
+{
+  "name": "lit-element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/lit-element": "^0.5.1",
+    "@vaadin/vaadin-combo-box": "^4.0.1-pre.2",
+    "@vaadin/vaadin-grid": "^5.0.0-pre.4",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "material-components-web": "^0.35.2"
+  }
+}
